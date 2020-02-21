@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SmartTicket</string>
+    <string name="title_activity_navigation">Journey Selection</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="from_array" />
+
+    <string-array name="from_array">
+        <item>Dhaka</item>
+        <item>Faridpur</item>
+        <item>Khulna</item>
+        <item>Rajshahi</item>
+        <item>Sylhet</item>
+        <item>Noakhali</item>
+        <item>Rangpur</item>
+    </string-array>
+
+    <string-array name="to_array">
+        <item>Chittagong</item>
+        <item>Barisal</item>
+        <item>Jessore</item>
+        <item>Pabna</item>
+        <item>Mymensingh</item>
+        <item>Naogaon</item>
+        <item>Panchagarh</item>
+    </string-array>
+
+    <string-array name="time_array">
+        <item>7:00 AM</item>
+        <item>8:00 AM</item>
+        <item>9:30 AM</item>
+        <item>9:00 PM</item>
+        <item>9:30 PM</item>
+        <item>10:00 PM</item>
+        <item>10:30 PM</item>
+        <item>11:00 PM</item>
+    </string-array>
+    <string name="title_activity_payment">Payment</string>
+</resources>
